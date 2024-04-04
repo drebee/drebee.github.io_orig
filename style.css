@@ -1,3 +1,9 @@
+img {
+  width: 30%;
+  margin: auto auto;
+  display: block;
+}
+
 html,
 body {
   padding: 0;
